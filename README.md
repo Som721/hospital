@@ -23,23 +23,23 @@ Hospital Management System is a Java-based application developed to automate and
 
 1. Download or clone the repository:
 
-   bash
+   ```bash
    git clone <repository-url>
-   
+   ```
 
 2. Open the project in your Java IDE.
 
 3. Compile the source code:
 
-   bash
+   ```bash
    javac HospitalManagementSystem.java
-   
+   ```
 
 4. Run the application:
 
-   bash
+   ```bash
    java HospitalManagementSystem
-   
+   ```
 
 ## Features
 
@@ -55,8 +55,9 @@ Hospital Management System is a Java-based application developed to automate and
 
 ## Project Structure
 
-text
+```text
 HospitalManagementSystem/
+│
 ├── Patient.java
 ├── Doctor.java
 ├── Appointment.java
@@ -64,7 +65,7 @@ HospitalManagementSystem/
 ├── HospitalManagementSystem.java
 ├── README.md
 └── Documentation/
-
+```
 
 ## Technologies Used
 
