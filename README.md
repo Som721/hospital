@@ -57,7 +57,6 @@ Hospital Management System is a Java-based application developed to automate and
 
 text
 HospitalManagementSystem/
-│
 ├── Patient.java
 ├── Doctor.java
 ├── Appointment.java
@@ -83,6 +82,3 @@ HospitalManagementSystem/
 * Java Swing/JavaFX GUI
 * PDF Bill Generation
 
-## Author
-
-Student Project – Hospital Management System
